@@ -9,4 +9,5 @@ python scan.py
 Dependencies of termux:
 
 pip install ipaddress
+
 pip install requests
